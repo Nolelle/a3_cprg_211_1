@@ -1,0 +1,14 @@
+C:\Users\edm_h\sait_winter_2024\CPRG 211 OOP2\a3_cprg211_1\a3_cprg211_1\obj\Debug\net8.0\a3_cprg211_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edm_h\sait_winter_2024\CPRG 211 OOP2\a3_cprg211_1\a3_cprg211_1\obj\Debug\net8.0\a3_cprg211_1.AssemblyInfoInputs.cache
+C:\Users\edm_h\sait_winter_2024\CPRG 211 OOP2\a3_cprg211_1\a3_cprg211_1\obj\Debug\net8.0\a3_cprg211_1.AssemblyInfo.cs
+C:\Users\edm_h\sait_winter_2024\CPRG 211 OOP2\a3_cprg211_1\a3_cprg211_1\obj\Debug\net8.0\a3_cprg211_1.csproj.CoreCompileInputs.cache
+C:\Users\edm_h\sait_winter_2024\CPRG 211 OOP2\a3_cprg211_1\a3_cprg211_1\bin\Debug\net8.0\a3_cprg211_1.exe
+C:\Users\edm_h\sait_winter_2024\CPRG 211 OOP2\a3_cprg211_1\a3_cprg211_1\bin\Debug\net8.0\a3_cprg211_1.deps.json
+C:\Users\edm_h\sait_winter_2024\CPRG 211 OOP2\a3_cprg211_1\a3_cprg211_1\bin\Debug\net8.0\a3_cprg211_1.runtimeconfig.json
+C:\Users\edm_h\sait_winter_2024\CPRG 211 OOP2\a3_cprg211_1\a3_cprg211_1\bin\Debug\net8.0\a3_cprg211_1.dll
+C:\Users\edm_h\sait_winter_2024\CPRG 211 OOP2\a3_cprg211_1\a3_cprg211_1\bin\Debug\net8.0\a3_cprg211_1.pdb
+C:\Users\edm_h\sait_winter_2024\CPRG 211 OOP2\a3_cprg211_1\a3_cprg211_1\obj\Debug\net8.0\a3_cprg211_1.dll
+C:\Users\edm_h\sait_winter_2024\CPRG 211 OOP2\a3_cprg211_1\a3_cprg211_1\obj\Debug\net8.0\refint\a3_cprg211_1.dll
+C:\Users\edm_h\sait_winter_2024\CPRG 211 OOP2\a3_cprg211_1\a3_cprg211_1\obj\Debug\net8.0\a3_cprg211_1.pdb
+C:\Users\edm_h\sait_winter_2024\CPRG 211 OOP2\a3_cprg211_1\a3_cprg211_1\obj\Debug\net8.0\a3_cprg211_1.genruntimeconfig.cache
+C:\Users\edm_h\sait_winter_2024\CPRG 211 OOP2\a3_cprg211_1\a3_cprg211_1\obj\Debug\net8.0\ref\a3_cprg211_1.dll
