@@ -7,7 +7,7 @@
     {
 
         private ILinkedListADT users;
-        private readonly string testFileName = "test_users.bin";
+        private readonly string testFileName = "C:\\Users\\edm_h\\sait_winter_2024\\CPRG 211 OOP2\\a3_cprg211_1\\a3_cprg_211_1.Test\\test_users.bin";
 
         [SetUp]
         public void Setup()
