@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("a3_cprg_211_1.Test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7efd766c074ef052fe648358aaee9cff8dff22fc")]
 [assembly: System.Reflection.AssemblyProductAttribute("a3_cprg_211_1.Test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("a3_cprg_211_1.Test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

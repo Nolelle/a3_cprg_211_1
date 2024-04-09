@@ -12,7 +12,6 @@
         [SetUp]
         public void Setup()
         {
-            // Uncomment the following line
             this.users = new SLL();
 
             users.AddLast(new User(1, "Joe Blow", "jblow@gmail.com", "password"));

@@ -86,7 +86,7 @@ namespace a3_cprg211_1.Test
             users.AddFirst(new User(7, "First for Removal", "firstremove@example.com", "passrem1"));
             users.AddLast(new User(8, "Last for Removal", "lastremove@example.com", "passrem2"));
             int initialCount = users.Count();
-            users.Remove(0); // Removing the first element for simplicity
+            users.Remove(0);
             Assert.AreEqual(initialCount - 1, users.Count());
         }
 
@@ -115,9 +115,8 @@ namespace a3_cprg211_1.Test
             users.AddLast(new User(2, "User 2", "email2@example.com", "password2"));
             users.AddLast(new User(3, "User 3", "email3@example.com", "password3"));
 
-            users.Head = users.ReverseLinkedList(users.Head); // Directly call the method
+            users.Head = users.ReverseLinkedList(users.Head);
 
-            // Assert the order is reversed by checking the values
             Assert.AreEqual("User 3", users.GetValue(0).Name);
             Assert.AreEqual("User 2", users.GetValue(1).Name);
             Assert.AreEqual("User 1", users.GetValue(2).Name);
